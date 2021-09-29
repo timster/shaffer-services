@@ -1,0 +1,12 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "typescript.format.enable": true,
+    "javascript.format.enable": true,
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.tabSize": 4,
+}
